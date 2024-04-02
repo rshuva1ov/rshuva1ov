@@ -15,7 +15,7 @@
 **Telegram QR:** [@rshuva1ov](https://user-images.githubusercontent.com/102639623/173983628-a42a5093-2bc4-4f37-9b08-9c9e82f47a4c.png)  
 **Почта:** Shuvalov.rem@mail.ru
 
-### 🛠 Стэк
+## 🛠 Стэк:
 
 <p align="left">
 <!-- TypeScript -->
@@ -51,7 +51,7 @@
 </p>
 <hr>
 
-### 💻 [Портфолио](https://github.com/rshuva1ov?tab=repositories)
+## 💻 [Портфолио](https://github.com/rshuva1ov?tab=repositories):
 
 <table>
 <tr>

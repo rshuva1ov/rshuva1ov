@@ -76,7 +76,7 @@
 <td>
 <h3><a href="https://github.com/rshuva1ov/CRM" title="Открыть репозиторий">Skb CRM</a></h3>
 <p>CRUD, Model View Presenter, Patterns, Single Page Application, Routing, Pagination</p>
-<p>NodeJS, Express, Mongoose, HTML, CSS, JavaScript, IMask</p>
+<p>NodeJS, Express, HTML, CSS, JavaScript, IMask</p>
 <p>«Skb CRM» — сервис управления взаимоотношениями с клиентами для образовательной системы</p>
 </td>
 </tr>

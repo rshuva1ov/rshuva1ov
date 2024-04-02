@@ -64,7 +64,7 @@
 <td>
 <h3><a href="https://github.com/rshuva1ov/react-reddit" title="Открыть репозиторий">Лента лучших постов Reddit</a></h3>
 <p>Typescript, React, Redux, React Router, CRUD, IMask</p>
-<p>Express, Mongoose, HTML, CSS, Webpack, Axios, Babel</p>
+<p>Express, HTML, CSS, Webpack, Axios, Babel</p>
 <p>«React Reddit» — SPA, объединяющее функции социальной сети и форума</p>
 </td>
 </tr>

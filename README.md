@@ -2,7 +2,7 @@
 
 Меня зовут Рэм. Я опытный _Frontend_ разработчик!
 
-👩‍💻 Мои основные инструменты: HTML5, CSS3, JavaScript, TypeScript, React, Vite, Rsbuild, SCSS, Git, REST API, Redux Toolkit, RTK Query, TanStack Query, Zustand, React Hook Form, Zod, Feature-Sliced Design, Keycloak, Docker;
+👩‍💻 Мои основные инструменты: HTML5, CSS3, JavaScript, TypeScript, React, Vite, Rsbuild, SCSS, Git, REST API, Redux Toolkit, RTK Query, TanStack Query, Zustand, React Hook Form, Zod, Rust, Tauri, Feature-Sliced Design, Keycloak, Docker;
 
 🎓 Имею высшее образование, являюсь магистром в инженерной специальности, заканчивал ИРНИТУ — Институт высоких технологий.  
 👜 Детально ознакомиться с моим **портфолио** вы можете вот [здесь](https://github.com/rshuva1ov?tab=repositories). В портфолио выложены проекты, заказчики которых не были против выложить их код, а также учебные и тестовые работы.

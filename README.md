@@ -58,7 +58,7 @@
 <tr>
 <td width="320px">
 <a href="https://github.com/rshuva1ov/scrooge" title="Открыть репозиторий">
-<strong>Scrooge Vault</strong>
+<img src="assets/scrooge.gif" width="300px" />
 </a>
 </td>
 <td>
@@ -70,7 +70,7 @@
 <tr>
 <td width="320px">
 <a href="https://github.com/rshuva1ov/matrix-clock" title="Открыть репозиторий">
-<strong>Matrix Clock</strong>
+<img src="assets/matrix-clock.gif" width="300px" />
 </a>
 </td>
 <td>
@@ -82,7 +82,7 @@
 <tr>
 <td width="320px">
 <a href="https://github.com/rshuva1ov/enterprise-rsbuild-preset" title="Открыть репозиторий">
-<strong>Enterprise Rsbuild Preset</strong>
+<img src="assets/enterprise.gif" width="300px" />
 </a>
 </td>
 <td>

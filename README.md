@@ -29,7 +29,7 @@
 <!-- Redux -->
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="40"/></a>
 <!-- TanStack -->
-<a href="https://tanstack.com/" target="_blank" rel="noreferrer"><img src="assets/tanstack.svg" alt="tanstack" height="40"/></a>
+<a href="https://tanstack.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/tanstack/ffffff" alt="tanstack" height="40"/></a>
 <!-- Vite -->
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" height="40"/></a>
 <!-- Sass -->
@@ -47,7 +47,7 @@
 <!-- Figma -->
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"/></a>
 <!-- Rust / Tauri -->
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" height="40"/></a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/rust/ffffff" alt="rust" height="40"/></a>
 </p>
 
 <hr>

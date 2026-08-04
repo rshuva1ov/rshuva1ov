@@ -28,6 +28,8 @@
 <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="40"/></a>
 <!-- Redux -->
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="40"/></a>
+<!-- TanStack -->
+<a href="https://tanstack.com/" target="_blank" rel="noreferrer"><img src="assets/tanstack.svg" alt="tanstack" height="40"/></a>
 <!-- Vite -->
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" height="40"/></a>
 <!-- Sass -->
